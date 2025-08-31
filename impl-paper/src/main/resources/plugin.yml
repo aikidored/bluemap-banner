@@ -1,11 +1,11 @@
 main: de.miraculixx.bmbm.Main
-version: 150
+version: 150-APD-1
 name: BlueMap-BannerMarker
 description: "A BlueMap addition plugin. Give your players the option to place markers on the map via the vanilla banner feature!"
 author: Miraculixx
 website: https://miraculixx.de
 load: STARTUP
-api-version: 1.13
+api-version: 1.21
 depend:
   - "BlueMap"
 libraries:
